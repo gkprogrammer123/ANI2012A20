@@ -1,4 +1,5 @@
 # ANI2012A20
+Welcome to our Repository ANI2012A20 ;
 
 Ce dépôt de code contient les exemples en lien avec le cours [ANI-2012 Programmation en animation](https://www.distance.ulaval.ca/etudes/cours/programmation-en-animation) de l'Université Laval, édition automne 2020.
 
@@ -53,3 +54,4 @@ Programmation appliquée à la génération et à la manipulation de structures 
 ## Module 10 : Conclusion
 
 Synthèse de la matière du cours.
+Thanks for visiting :::
